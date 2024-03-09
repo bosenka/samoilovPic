@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #3F5F88;
+    padding: 20px 0px 20px 15px;
+}
+
+header img {
+    height: 40px;
+}
+
+a {
+    text-decoration: none;
+    background-color: orange;
+    padding: 3px;
+    color: black;
+    margin-left: 5px;
+    border: 1px solid orange;
+    border-radius: 7px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+main img {
+    margin: 10px;
+}
+
+main h2 {
+    color: red;
+    font-size: 20px;
+
+}
+
+
+main p {
+    font-size: 50px;
+    text-align: center;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    padding: 15px 0px 15px 0px
+}
+
+footer {
+    background-color: #3F5F88 ;
+    padding: 20px 30px 20px 30px
+}
+
+footer p {
+    margin:20px;
+    color: white;
+}
+
+
